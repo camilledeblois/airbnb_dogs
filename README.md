@@ -1,24 +1,22 @@
-# README
+# The Hacking Project - Semaine 4 - Jeudi #
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Projet : Dog AirBnB ##
 
-Things you may want to cover:
+Une application dans le même esprit que AirBnB mais où des personnes pourraient promener les chiens contre rémunération.
 
-* Ruby version
+## Modèles : ##
 
-* System dependencies
+*  Dogsitter
+*  Dog
+*  Stroll
+*  City
 
-* Configuration
+## Auteurs ##
 
-* Database creation
+    Team Caen
+    Camille Deblois, Rauana Roupsard
 
-* Database initialization
+## En savoir plus ##
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    Project for The hacking Project
+    https://www.thehackingproject.org/
